@@ -1,11 +1,11 @@
-# React Interview Questions & Answers
+# React - Questions & Answers
 
 > Click :star:if you like the project. Pull Request are highly appreciated. Follow me [@SudheerJonna](https://twitter.com/SudheerJonna) for technical updates.
 
 ---
 <div align="center">
         <a href="https://www.fullstack.cafe/?utm_source=github&utm_medium=sud">
-            3600 Tech Interview Questions. <b>Answered</b>.
+            3600 Tech  Questions. <b>Answered</b>.
             <div>
                 <img src="https://user-images.githubusercontent.com/13550565/76382460-cc784d80-6393-11ea-8837-2b89265ac853.png" width="150" alt="FullStack.Cafe">
             </div>
